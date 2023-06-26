@@ -1,9 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&family=Permanent+Marker&family=Playfair+Display:wght@700&display=swap');
-
-*{
-    font-family: 'Poppins', sans-serif;
-}
-
 @media screen and (max-width: 1350px) {
     body {
       width: 95%;
